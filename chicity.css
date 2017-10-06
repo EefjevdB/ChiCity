@@ -1,0 +1,8 @@
+.mymargin {
+  margin: 10px 10px 10px 10px;
+}
+
+
+.mycolumn {
+  column-gap: 40px;
+}
